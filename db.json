@@ -1,0 +1,29 @@
+{
+  "homes": [
+    {
+      "id": 1,
+      "adresse": "42 avenue de la République, 59170 Roubaix",
+      "type": "Maison individuelle",
+      "surface": "132",
+      "departement": "Auvergne Rhone Alpes",
+      "num_cadastre": "AP250",
+      "nb_niveau": "3",
+      "altitude": "200",
+      "proprietaire": "Jean Dupont"
+    },
+    {
+      "id": 2,
+      "adresse": "41 avenue dMaréchal Férrand, 43540 Trouvers",
+      "type": "Appartement",
+      "surface": "90",
+      "departement": "Nord",
+      "num_cadastre": "AP123",
+      "nb_niveau": "1",
+      "altitude": "100",
+      "proprietaire": "Pierre Guy"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

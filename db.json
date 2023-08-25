@@ -6,6 +6,7 @@
       "type": "Maison individuelle",
       "surface": "132",
       "departement": "Auvergne Rhone Alpes",
+      "annee_construction": "1963",
       "num_cadastre": "AP250",
       "nb_niveau": "3",
       "altitude": "200",
@@ -18,6 +19,7 @@
       "surface": "90",
       "departement": "Nord",
       "num_cadastre": "AP123",
+      "annee_construction": "1989",
       "nb_niveau": "1",
       "altitude": "100",
       "proprietaire": "Pierre Guy"
